@@ -102,7 +102,6 @@ As a football fan and tech enthusiast, I always wondered: what if I could break 
   ![image](https://github.com/user-attachments/assets/17313adf-6f71-40ec-a3a6-e1f6a083a980)
   ![image](https://github.com/user-attachments/assets/f7f64513-98a3-4087-8f85-6d3db251e044)
   ![image](https://github.com/user-attachments/assets/3ea3e4c2-fb73-40a5-a5da-661da4e5d0ff)
-  ![image](https://github.com/user-attachments/assets/3ace228e-6bd2-4b93-8f10-0f3c1f321c4b)
   ![image](https://github.com/user-attachments/assets/a50b0502-8aeb-4659-8006-9fb90499b464)
 
 
