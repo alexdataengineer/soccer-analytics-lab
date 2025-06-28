@@ -44,6 +44,38 @@ Welcome! This project is a fusion of my passion for football and technology. Her
 - **Risk Assessment**: Evaluate player fitness and form through movement analysis
 - **Market Intelligence**: Identify undervalued players based on tactical contributions
 
+## Project Structure
+
+```
+soccer-analytics-lab/
+├── src/                    # Core modules
+│   ├── detection.py        # YOLOv8 object detection
+│   ├── tracking.py         # Player and ball tracking
+│   ├── analysis.py         # Data analysis and statistics
+│   ├── visualization.py    # Charts and visualizations
+│   ├── dashboard.py        # Streamlit web dashboard
+│   ├── player_clustering.py # Player style clustering (KMeans)
+│   ├── pass_detection.py   # Automatic pass recognition
+│   ├── epv_model.py        # Expected Possession Value
+│   └── attack_pressure.py  # Attack and pressure detection
+├── notebooks/              # Jupyter notebooks for exploration
+│   └── 01_exploration.ipynb
+├── data/                   # Input video files and raw data
+├── outputs/                # Generated results and visualizations
+│   ├── tracking_results.json
+│   ├── analysis_results.json
+│   ├── player_clusters.png
+│   ├── epv_heatmap.png
+│   └── match_momentum.png
+├── venv/                   # Python virtual environment
+├── requirements.txt        # Project dependencies
+├── run_analysis.py         # Main analysis pipeline
+├── setup.py               # Project configuration
+├── test_setup.py          # Setup verification tests
+├── yolov8n.pt             # YOLOv8 model weights
+└── README.md              # Project documentation
+```
+
 ## Why I Built This
 
 As a football fan and tech enthusiast, I always wondered: what if I could break down a match like a professional analyst? I wanted to see not just who scored, but how teams built their plays, who controlled the field, and which players had unique styles. This project is my way of answering those questions using modern AI tools.

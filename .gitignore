@@ -128,18 +128,14 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Project specific
+# Project specific - exclude large files
 data/*.mp4
 data/*.avi
 data/*.mov
-outputs/
-*.json
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.bmp
-*.tiff
+outputs/*.json
+outputs/visualizations/*.png
+outputs/visualizations/*.jpg
+outputs/visualizations/*.jpeg
 
 # Keep some data files
 !data/.gitkeep
