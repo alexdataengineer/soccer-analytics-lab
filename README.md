@@ -75,6 +75,7 @@ soccer-analytics-lab/
 ├── yolov8n.pt             # YOLOv8 model weights
 └── README.md              # Project documentation
 ```
+<img width="301" alt="image" src="https://github.com/user-attachments/assets/1a70b9b3-0a85-4a41-9425-34fb7ff5c940" />
 
 ## Why I Built This
 
